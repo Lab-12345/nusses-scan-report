@@ -55,7 +55,7 @@ Screenshots from the Nessus Essentials dashboard showing:
 
 ## 📎 Report
 Download the full PDF scan report here:
-[📄 Vulnerability_Scan_Report_Nessus.pdf](./Vulnerability_Scan_Report_Nessus.pdf)
+[📄 Vulnerability_Scan_Report_Nessus.pdf](./docs/vulnerability_scan_report.pdf)
 
 ---
 
