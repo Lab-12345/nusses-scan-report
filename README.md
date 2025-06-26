@@ -49,6 +49,11 @@
 
 ## 📸 Screenshots
 Screenshots from the Nessus Essentials dashboard showing:
+![Uploading Screenshot 2025-06-26 121844.png…]()
+![Uploading Screenshot 2025-06-26 121844.png…]()
+![Uploading Screenshot 2025-06-26 121844.png…]()
+![Uploading Screenshot 2025-06-26 121844.png…]()
+
 - Vulnerability breakdown
 - Specific critical issues
 - CVSS scores and remediation tips
