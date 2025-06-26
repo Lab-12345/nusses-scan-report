@@ -47,11 +47,6 @@
 - Migrate from deprecated encryption protocols.
 - Monitor for backdoors and unusual activity.
 
-## 📸 Screenshots
-Screenshots from the Nessus Essentials dashboard showing:
-- Vulnerability breakdown
-- Specific critical issues
-- CVSS scores and remediation tips
 
 ## 📎 Report
 Download the full PDF scan report here:
